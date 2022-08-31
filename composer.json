@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/customermessage4",
+  "version": "1.0.0",
+  "description": "CustomerMessage4",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7 || ^2.0"
+  },
+  "extra": {
+    "code": "CustomerMessage4"
+  }
+}
